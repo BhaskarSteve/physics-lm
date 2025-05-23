@@ -1,0 +1,1799 @@
+User: What is the birthdate of Roy Drew Ramos?
+Assistant: July 5, 2007
+
+User: What is the birth city of Roy Drew Ramos?
+Assistant: Boise, ID
+
+User: Which University did Roy Drew Ramos study?
+Assistant: Dominican University of California
+
+User: Which Major did Roy Drew Ramos study?
+Assistant: Art History
+
+User: What company did Roy Drew Ramos work for?
+Assistant: Zimmer Biomet
+
+User: Where did Roy Drew Ramos work?
+Assistant: Warsaw, IN
+
+User: What is the birthdate of Terrence Eve McDonald?
+Assistant: October 26, 2093
+
+User: What is the birth city of Terrence Eve McDonald?
+Assistant: Indianapolis, IN
+
+User: Which University did Terrence Eve McDonald study?
+Assistant: University of Alabama
+
+User: Which Major did Terrence Eve McDonald study?
+Assistant: Microbiology
+
+User: What company did Terrence Eve McDonald work for?
+Assistant: Amgen
+
+User: Where did Terrence Eve McDonald work?
+Assistant: Thousand Oaks, CA
+
+User: What is the birthdate of Miranda June Greene?
+Assistant: January 17, 2063
+
+User: What is the birth city of Miranda June Greene?
+Assistant: Chicago, IL
+
+User: Which University did Miranda June Greene study?
+Assistant: Ringling College of Art and Design
+
+User: Which Major did Miranda June Greene study?
+Assistant: Geography
+
+User: What company did Miranda June Greene work for?
+Assistant: Ralph Lauren
+
+User: Where did Miranda June Greene work?
+Assistant: New York, NY
+
+User: What is the birthdate of Esmeralda Colette Case?
+Assistant: August 20, 2021
+
+User: What is the birth city of Esmeralda Colette Case?
+Assistant: Kalamazoo, MI
+
+User: Which University did Esmeralda Colette Case study?
+Assistant: Auburn University
+
+User: Which Major did Esmeralda Colette Case study?
+Assistant: Communications
+
+User: What company did Esmeralda Colette Case work for?
+Assistant: AT&T
+
+User: Where did Esmeralda Colette Case work?
+Assistant: Dallas, TX
+
+User: What is the birthdate of Eugene Matthew Little?
+Assistant: March 7, 2072
+
+User: What is the birth city of Eugene Matthew Little?
+Assistant: McKinney, TX
+
+User: Which University did Eugene Matthew Little study?
+Assistant: California State University San Bernardino
+
+User: Which Major did Eugene Matthew Little study?
+Assistant: Veterinary Science
+
+User: What company did Eugene Matthew Little work for?
+Assistant: Raytheon Technologies
+
+User: Where did Eugene Matthew Little work?
+Assistant: Waltham, MA
+
+User: What is the birthdate of Pauline Eloise Morrison?
+Assistant: March 12, 2000
+
+User: What is the birth city of Pauline Eloise Morrison?
+Assistant: Sacramento, CA
+
+User: Which University did Pauline Eloise Morrison study?
+Assistant: Georgetown University
+
+User: Which Major did Pauline Eloise Morrison study?
+Assistant: Cognitive Science
+
+User: What company did Pauline Eloise Morrison work for?
+Assistant: Chevron
+
+User: Where did Pauline Eloise Morrison work?
+Assistant: San Ramon, CA
+
+User: What is the birthdate of Pamela Alice McGuire?
+Assistant: October 9, 2028
+
+User: What is the birth city of Pamela Alice McGuire?
+Assistant: Omaha, NE
+
+User: Which University did Pamela Alice McGuire study?
+Assistant: Cranbrook Academy of Art
+
+User: Which Major did Pamela Alice McGuire study?
+Assistant: Cognitive Science
+
+User: What company did Pamela Alice McGuire work for?
+Assistant: Honeywell
+
+User: Where did Pamela Alice McGuire work?
+Assistant: Charlotte, NC
+
+User: What is the birthdate of Frank Odette Willis?
+Assistant: November 23, 1993
+
+User: What is the birth city of Frank Odette Willis?
+Assistant: Allentown, PA
+
+User: Which University did Frank Odette Willis study?
+Assistant: California State University Chico
+
+User: Which Major did Frank Odette Willis study?
+Assistant: Finance
+
+User: What company did Frank Odette Willis work for?
+Assistant: Aramark
+
+User: Where did Frank Odette Willis work?
+Assistant: Philadelphia, PA
+
+User: What is the birthdate of Heather Rowan Stephens?
+Assistant: January 12, 2015
+
+User: What is the birth city of Heather Rowan Stephens?
+Assistant: Naperville, IL
+
+User: Which University did Heather Rowan Stephens study?
+Assistant: University of Massachusetts Amherst
+
+User: Which Major did Heather Rowan Stephens study?
+Assistant: Health Sciences
+
+User: What company did Heather Rowan Stephens work for?
+Assistant: Gap
+
+User: Where did Heather Rowan Stephens work?
+Assistant: San Francisco, CA
+
+User: What is the birthdate of Elmer Anderson Ponce?
+Assistant: March 3, 1989
+
+User: What is the birth city of Elmer Anderson Ponce?
+Assistant: Bakersfield, CA
+
+User: Which University did Elmer Anderson Ponce study?
+Assistant: California State University Dominguez Hills
+
+User: Which Major did Elmer Anderson Ponce study?
+Assistant: Management
+
+User: What company did Elmer Anderson Ponce work for?
+Assistant: JetBlue Airways
+
+User: Where did Elmer Anderson Ponce work?
+Assistant: Long Island City, NY
+
+User: What is the birthdate of Sandra Iris Preston?
+Assistant: March 12, 1931
+
+User: What is the birth city of Sandra Iris Preston?
+Assistant: Denver, CO
+
+User: Which University did Sandra Iris Preston study?
+Assistant: Florida International University
+
+User: Which Major did Sandra Iris Preston study?
+Assistant: Pharmacy
+
+User: What company did Sandra Iris Preston work for?
+Assistant: Fidelity Investments
+
+User: Where did Sandra Iris Preston work?
+Assistant: Boston, MA
+
+User: What is the birthdate of Frank Verity Harris?
+Assistant: December 12, 2031
+
+User: What is the birth city of Frank Verity Harris?
+Assistant: Miami, FL
+
+User: Which University did Frank Verity Harris study?
+Assistant: University of Arizona
+
+User: Which Major did Frank Verity Harris study?
+Assistant: Business Administration
+
+User: What company did Frank Verity Harris work for?
+Assistant: Qualcomm
+
+User: Where did Frank Verity Harris work?
+Assistant: San Diego, CA
+
+User: What is the birthdate of Brittany Annalise Cabrera?
+Assistant: April 11, 2033
+
+User: What is the birth city of Brittany Annalise Cabrera?
+Assistant: Baltimore, MD
+
+User: Which University did Brittany Annalise Cabrera study?
+Assistant: Baylor University
+
+User: Which Major did Brittany Annalise Cabrera study?
+Assistant: Music
+
+User: What company did Brittany Annalise Cabrera work for?
+Assistant: AbbVie
+
+User: Where did Brittany Annalise Cabrera work?
+Assistant: North Chicago, IL
+
+User: What is the birthdate of Janet Grace Powers?
+Assistant: December 22, 1973
+
+User: What is the birth city of Janet Grace Powers?
+Assistant: Mason, OH
+
+User: Which University did Janet Grace Powers study?
+Assistant: University of Kentucky
+
+User: Which Major did Janet Grace Powers study?
+Assistant: Information Technology
+
+User: What company did Janet Grace Powers work for?
+Assistant: PPL Corporation
+
+User: Where did Janet Grace Powers work?
+Assistant: Allentown, PA
+
+User: What is the birthdate of Hope Anya Rice?
+Assistant: April 21, 1944
+
+User: What is the birth city of Hope Anya Rice?
+Assistant: Redmond, WA
+
+User: Which University did Hope Anya Rice study?
+Assistant: Savannah State University
+
+User: Which Major did Hope Anya Rice study?
+Assistant: Nutrition
+
+User: What company did Hope Anya Rice work for?
+Assistant: Tesla
+
+User: Where did Hope Anya Rice work?
+Assistant: Palo Alto, CA
+
+User: What is the birthdate of Aaron Easton Long?
+Assistant: October 27, 1994
+
+User: What is the birth city of Aaron Easton Long?
+Assistant: Irving, TX
+
+User: Which University did Aaron Easton Long study?
+Assistant: University of Delaware
+
+User: Which Major did Aaron Easton Long study?
+Assistant: Business Administration
+
+User: What company did Aaron Easton Long work for?
+Assistant: Darden Restaurants
+
+User: Where did Aaron Easton Long work?
+Assistant: Orlando, FL
+
+User: What is the birthdate of Samantha Valentina Cruz?
+Assistant: December 1, 2035
+
+User: What is the birth city of Samantha Valentina Cruz?
+Assistant: Bethesda, MD
+
+User: Which University did Samantha Valentina Cruz study?
+Assistant: Vanderbilt University
+
+User: Which Major did Samantha Valentina Cruz study?
+Assistant: Counseling
+
+User: What company did Samantha Valentina Cruz work for?
+Assistant: Gap
+
+User: Where did Samantha Valentina Cruz work?
+Assistant: San Francisco, CA
+
+User: What is the birthdate of Theresa Isabel Stokes?
+Assistant: February 17, 2001
+
+User: What is the birth city of Theresa Isabel Stokes?
+Assistant: North Chicago, IL
+
+User: Which University did Theresa Isabel Stokes study?
+Assistant: Azusa Pacific University
+
+User: Which Major did Theresa Isabel Stokes study?
+Assistant: Dance
+
+User: What company did Theresa Isabel Stokes work for?
+Assistant: Chubb
+
+User: Where did Theresa Isabel Stokes work?
+Assistant: Zurich, Switzerland
+
+User: What is the birthdate of Amy Marie McCarthy?
+Assistant: March 1, 2040
+
+User: What is the birth city of Amy Marie McCarthy?
+Assistant: Fort Wayne, IN
+
+User: Which University did Amy Marie McCarthy study?
+Assistant: University of Alaska Fairbanks
+
+User: Which Major did Amy Marie McCarthy study?
+Assistant: Entrepreneurship
+
+User: What company did Amy Marie McCarthy work for?
+Assistant: McDonald's
+
+User: Where did Amy Marie McCarthy work?
+Assistant: Chicago, IL
+
+User: What is the birthdate of Francis Griffin Murphy?
+Assistant: February 19, 2017
+
+User: What is the birth city of Francis Griffin Murphy?
+Assistant: New Brunswick, NJ
+
+User: Which University did Francis Griffin Murphy study?
+Assistant: University of Pennsylvania
+
+User: Which Major did Francis Griffin Murphy study?
+Assistant: Cognitive Science
+
+User: What company did Francis Griffin Murphy work for?
+Assistant: Wells Fargo
+
+User: Where did Francis Griffin Murphy work?
+Assistant: San Francisco, CA
+
+User: What is the birthdate of Hugh Maxwell Montgomery?
+Assistant: June 22, 1970
+
+User: What is the birth city of Hugh Maxwell Montgomery?
+Assistant: St. Paul, MN
+
+User: Which University did Hugh Maxwell Montgomery study?
+Assistant: American University
+
+User: Which Major did Hugh Maxwell Montgomery study?
+Assistant: Psychology
+
+User: What company did Hugh Maxwell Montgomery work for?
+Assistant: Uber
+
+User: Where did Hugh Maxwell Montgomery work?
+Assistant: San Francisco, CA
+
+User: What is the birthdate of Levi Holden Wood?
+Assistant: May 14, 1926
+
+User: What is the birth city of Levi Holden Wood?
+Assistant: Tacoma, WA
+
+User: Which University did Levi Holden Wood study?
+Assistant: Pepperdine University
+
+User: Which Major did Levi Holden Wood study?
+Assistant: Education
+
+User: What company did Levi Holden Wood work for?
+Assistant: PepsiCo
+
+User: Where did Levi Holden Wood work?
+Assistant: Purchase, NY
+
+User: What is the birthdate of Toby Cole Dominguez?
+Assistant: October 18, 2073
+
+User: What is the birth city of Toby Cole Dominguez?
+Assistant: Springdale, AR
+
+User: Which University did Toby Cole Dominguez study?
+Assistant: University of Central Florida
+
+User: Which Major did Toby Cole Dominguez study?
+Assistant: Entrepreneurship
+
+User: What company did Toby Cole Dominguez work for?
+Assistant: Ralph Lauren
+
+User: Where did Toby Cole Dominguez work?
+Assistant: New York, NY
+
+User: What is the birthdate of Shawn Raine Reid?
+Assistant: December 21, 2004
+
+User: What is the birth city of Shawn Raine Reid?
+Assistant: Amarillo, TX
+
+User: Which University did Shawn Raine Reid study?
+Assistant: Pacific Lutheran University
+
+User: Which Major did Shawn Raine Reid study?
+Assistant: Cognitive Science
+
+User: What company did Shawn Raine Reid work for?
+Assistant: Tesla
+
+User: Where did Shawn Raine Reid work?
+Assistant: Palo Alto, CA
+
+User: What is the birthdate of Roy Ford Stevens?
+Assistant: April 16, 2049
+
+User: What is the birth city of Roy Ford Stevens?
+Assistant: Lubbock, TX
+
+User: Which University did Roy Ford Stevens study?
+Assistant: University of Michigan, Ann Arbor
+
+User: Which Major did Roy Ford Stevens study?
+Assistant: Fine Arts
+
+User: What company did Roy Ford Stevens work for?
+Assistant: Johnson & Johnson
+
+User: Where did Roy Ford Stevens work?
+Assistant: New Brunswick, NJ
+
+User: What is the birthdate of Manuel Joseph Larson?
+Assistant: July 10, 1911
+
+User: What is the birth city of Manuel Joseph Larson?
+Assistant: Chandler, AZ
+
+User: Which University did Manuel Joseph Larson study?
+Assistant: California Polytechnic State University, San Luis Obispo
+
+User: Which Major did Manuel Joseph Larson study?
+Assistant: Liberal Arts
+
+User: What company did Manuel Joseph Larson work for?
+Assistant: Kimberly-Clark
+
+User: Where did Manuel Joseph Larson work?
+Assistant: Irving, TX
+
+User: What is the birthdate of Stephen Belle Shaffer?
+Assistant: June 11, 2033
+
+User: What is the birth city of Stephen Belle Shaffer?
+Assistant: Sunnyvale, CA
+
+User: Which University did Stephen Belle Shaffer study?
+Assistant: Duke University
+
+User: Which Major did Stephen Belle Shaffer study?
+Assistant: Film Studies
+
+User: What company did Stephen Belle Shaffer work for?
+Assistant: GitHub
+
+User: Where did Stephen Belle Shaffer work?
+Assistant: San Francisco, CA
+
+User: What is the birthdate of Stanley Tyson Shaw?
+Assistant: January 2, 1986
+
+User: What is the birth city of Stanley Tyson Shaw?
+Assistant: Hayward, CA
+
+User: Which University did Stanley Tyson Shaw study?
+Assistant: California State University San Bernardino
+
+User: Which Major did Stanley Tyson Shaw study?
+Assistant: Chemistry Education
+
+User: What company did Stanley Tyson Shaw work for?
+Assistant: General Motors
+
+User: Where did Stanley Tyson Shaw work?
+Assistant: Detroit, MI
+
+User: What is the birthdate of Paul Leah Becker?
+Assistant: July 17, 2057
+
+User: What is the birth city of Paul Leah Becker?
+Assistant: Dayton, OH
+
+User: Which University did Paul Leah Becker study?
+Assistant: Pratt Institute
+
+User: Which Major did Paul Leah Becker study?
+Assistant: Public Policy
+
+User: What company did Paul Leah Becker work for?
+Assistant: Cisco Systems
+
+User: Where did Paul Leah Becker work?
+Assistant: San Jose, CA
+
+User: What is the birthdate of Lance Dante Melton?
+Assistant: May 4, 1940
+
+User: What is the birth city of Lance Dante Melton?
+Assistant: Irvine, CA
+
+User: Which University did Lance Dante Melton study?
+Assistant: Northern Arizona University
+
+User: Which Major did Lance Dante Melton study?
+Assistant: Physics Education
+
+User: What company did Lance Dante Melton work for?
+Assistant: Spirit Airlines
+
+User: Where did Lance Dante Melton work?
+Assistant: Miramar, FL
+
+User: What is the birthdate of Mitchell Vera Spencer?
+Assistant: June 22, 2091
+
+User: What is the birth city of Mitchell Vera Spencer?
+Assistant: El Paso, TX
+
+User: Which University did Mitchell Vera Spencer study?
+Assistant: Boston University
+
+User: Which Major did Mitchell Vera Spencer study?
+Assistant: Architecture
+
+User: What company did Mitchell Vera Spencer work for?
+Assistant: Boston Scientific
+
+User: Where did Mitchell Vera Spencer work?
+Assistant: Marlborough, MA
+
+User: What is the birthdate of Lance Selena Barrett?
+Assistant: July 27, 1958
+
+User: What is the birth city of Lance Selena Barrett?
+Assistant: Miami, FL
+
+User: Which University did Lance Selena Barrett study?
+Assistant: University of Delaware
+
+User: Which Major did Lance Selena Barrett study?
+Assistant: Aerospace Engineering
+
+User: What company did Lance Selena Barrett work for?
+Assistant: Spotify
+
+User: Where did Lance Selena Barrett work?
+Assistant: New York, NY
+
+User: What is the birthdate of Julie Jeremiah Munoz?
+Assistant: May 25, 1954
+
+User: What is the birth city of Julie Jeremiah Munoz?
+Assistant: Deerfield, IL
+
+User: Which University did Julie Jeremiah Munoz study?
+Assistant: DePaul University
+
+User: Which Major did Julie Jeremiah Munoz study?
+Assistant: Information Technology
+
+User: What company did Julie Jeremiah Munoz work for?
+Assistant: American Express
+
+User: Where did Julie Jeremiah Munoz work?
+Assistant: New York, NY
+
+User: What is the birthdate of Isabel Drake Wright?
+Assistant: December 9, 1940
+
+User: What is the birth city of Isabel Drake Wright?
+Assistant: Buffalo, NY
+
+User: Which University did Isabel Drake Wright study?
+Assistant: Parsons School of Design
+
+User: Which Major did Isabel Drake Wright study?
+Assistant: Sociology
+
+User: What company did Isabel Drake Wright work for?
+Assistant: BlackRock
+
+User: Where did Isabel Drake Wright work?
+Assistant: New York, NY
+
+User: What is the birthdate of Roy Verity Mendoza?
+Assistant: February 21, 2094
+
+User: What is the birth city of Roy Verity Mendoza?
+Assistant: Miami, FL
+
+User: Which University did Roy Verity Mendoza study?
+Assistant: Humboldt State University
+
+User: Which Major did Roy Verity Mendoza study?
+Assistant: Management
+
+User: What company did Roy Verity Mendoza work for?
+Assistant: Vroom
+
+User: Where did Roy Verity Mendoza work?
+Assistant: New York, NY
+
+User: What is the birthdate of Jay Briggs Roberts?
+Assistant: October 16, 1932
+
+User: What is the birth city of Jay Briggs Roberts?
+Assistant: McKinney, TX
+
+User: Which University did Jay Briggs Roberts study?
+Assistant: Rice University
+
+User: Which Major did Jay Briggs Roberts study?
+Assistant: Aerospace Engineering
+
+User: What company did Jay Briggs Roberts work for?
+Assistant: Procter & Gamble
+
+User: Where did Jay Briggs Roberts work?
+Assistant: Cincinnati, OH
+
+User: What is the birthdate of Sharon Nicholas Mejia?
+Assistant: January 7, 1930
+
+User: What is the birth city of Sharon Nicholas Mejia?
+Assistant: Killeen, TX
+
+User: Which University did Sharon Nicholas Mejia study?
+Assistant: University of Montana
+
+User: Which Major did Sharon Nicholas Mejia study?
+Assistant: Human Resources
+
+User: What company did Sharon Nicholas Mejia work for?
+Assistant: TD Ameritrade
+
+User: Where did Sharon Nicholas Mejia work?
+Assistant: Omaha, NE
+
+User: What is the birthdate of Beverly Kate Delgado?
+Assistant: June 25, 1918
+
+User: What is the birth city of Beverly Kate Delgado?
+Assistant: Lexington, KY
+
+User: Which University did Beverly Kate Delgado study?
+Assistant: Boston University
+
+User: Which Major did Beverly Kate Delgado study?
+Assistant: Social Work
+
+User: What company did Beverly Kate Delgado work for?
+Assistant: Booking Holdings
+
+User: Where did Beverly Kate Delgado work?
+Assistant: Norwalk, CT
+
+User: What is the birthdate of Caroline Ivy Simmons?
+Assistant: August 3, 1978
+
+User: What is the birth city of Caroline Ivy Simmons?
+Assistant: Bellevue, WA
+
+User: Which University did Caroline Ivy Simmons study?
+Assistant: Michigan State University
+
+User: Which Major did Caroline Ivy Simmons study?
+Assistant: Physical Therapy
+
+User: What company did Caroline Ivy Simmons work for?
+Assistant: Virgin Galactic
+
+User: Where did Caroline Ivy Simmons work?
+Assistant: Mojave, CA
+
+User: What is the birthdate of Chris Chance Alvarez?
+Assistant: January 7, 2057
+
+User: What is the birth city of Chris Chance Alvarez?
+Assistant: Newport Beach, CA
+
+User: Which University did Chris Chance Alvarez study?
+Assistant: Georgetown University
+
+User: Which Major did Chris Chance Alvarez study?
+Assistant: Cultural Studies
+
+User: What company did Chris Chance Alvarez work for?
+Assistant: CarMax
+
+User: Where did Chris Chance Alvarez work?
+Assistant: Richmond, VA
+
+User: What is the birthdate of Cheryl Matthew Arnold?
+Assistant: November 28, 2084
+
+User: What is the birth city of Cheryl Matthew Arnold?
+Assistant: Arlington, TX
+
+User: Which University did Cheryl Matthew Arnold study?
+Assistant: University of Arkansas
+
+User: Which Major did Cheryl Matthew Arnold study?
+Assistant: Gender Studies
+
+User: What company did Cheryl Matthew Arnold work for?
+Assistant: Chipotle
+
+User: Where did Cheryl Matthew Arnold work?
+Assistant: Newport Beach, CA
+
+User: What is the birthdate of Mitchell Ivy Williamson?
+Assistant: January 10, 1996
+
+User: What is the birth city of Mitchell Ivy Williamson?
+Assistant: Rancho Cucamonga, CA
+
+User: Which University did Mitchell Ivy Williamson study?
+Assistant: Case Western Reserve University
+
+User: Which Major did Mitchell Ivy Williamson study?
+Assistant: Agriculture
+
+User: What company did Mitchell Ivy Williamson work for?
+Assistant: Fastenal
+
+User: Where did Mitchell Ivy Williamson work?
+Assistant: Winona, MN
+
+User: What is the birthdate of Sara Judah Soto?
+Assistant: October 24, 1987
+
+User: What is the birth city of Sara Judah Soto?
+Assistant: North Chicago, IL
+
+User: Which University did Sara Judah Soto study?
+Assistant: DePaul University
+
+User: Which Major did Sara Judah Soto study?
+Assistant: Political Science
+
+User: What company did Sara Judah Soto work for?
+Assistant: American Express
+
+User: Where did Sara Judah Soto work?
+Assistant: New York, NY
+
+User: What is the birthdate of Rachel Violet Diaz?
+Assistant: August 2, 2004
+
+User: What is the birth city of Rachel Violet Diaz?
+Assistant: Oakland, CA
+
+User: Which University did Rachel Violet Diaz study?
+Assistant: University of Louisiana Monroe
+
+User: Which Major did Rachel Violet Diaz study?
+Assistant: Tourism
+
+User: What company did Rachel Violet Diaz work for?
+Assistant: FedEx
+
+User: Where did Rachel Violet Diaz work?
+Assistant: Memphis, TN
+
+User: What is the birthdate of Amy Judah Long?
+Assistant: June 26, 2053
+
+User: What is the birth city of Amy Judah Long?
+Assistant: Norwalk, CT
+
+User: Which University did Amy Judah Long study?
+Assistant: Northern Kentucky University
+
+User: Which Major did Amy Judah Long study?
+Assistant: Art History
+
+User: What company did Amy Judah Long work for?
+Assistant: TD Ameritrade
+
+User: Where did Amy Judah Long work?
+Assistant: Omaha, NE
+
+User: What is the birthdate of Clarence Dylan Mann?
+Assistant: May 7, 1906
+
+User: What is the birth city of Clarence Dylan Mann?
+Assistant: Santa Monica, CA
+
+User: Which University did Clarence Dylan Mann study?
+Assistant: University of Minnesota, Twin Cities
+
+User: Which Major did Clarence Dylan Mann study?
+Assistant: History
+
+User: What company did Clarence Dylan Mann work for?
+Assistant: Travelers
+
+User: Where did Clarence Dylan Mann work?
+Assistant: New York, NY
+
+User: What is the birthdate of Lisa Florence Perkins?
+Assistant: January 24, 1950
+
+User: What is the birth city of Lisa Florence Perkins?
+Assistant: Salt Lake City, UT
+
+User: Which University did Lisa Florence Perkins study?
+Assistant: Yale University
+
+User: Which Major did Lisa Florence Perkins study?
+Assistant: Nutrition
+
+User: What company did Lisa Florence Perkins work for?
+Assistant: McDonald's
+
+User: Where did Lisa Florence Perkins work?
+Assistant: Chicago, IL
+
+User: What is the birthdate of Bailey Tate Garner?
+Assistant: February 13, 1966
+
+User: What is the birth city of Bailey Tate Garner?
+Assistant: Miramar, FL
+
+User: Which University did Bailey Tate Garner study?
+Assistant: University of Southern California
+
+User: Which Major did Bailey Tate Garner study?
+Assistant: Classical Studies
+
+User: What company did Bailey Tate Garner work for?
+Assistant: Anthem
+
+User: Where did Bailey Tate Garner work?
+Assistant: Indianapolis, IN
+
+User: What is the birthdate of Walter Alexander Duran?
+Assistant: March 20, 2021
+
+User: What is the birth city of Walter Alexander Duran?
+Assistant: Torrance, CA
+
+User: Which University did Walter Alexander Duran study?
+Assistant: Savannah College of Art and Design
+
+User: Which Major did Walter Alexander Duran study?
+Assistant: Neuroscience
+
+User: What company did Walter Alexander Duran work for?
+Assistant: Boston Scientific
+
+User: Where did Walter Alexander Duran work?
+Assistant: Marlborough, MA
+
+User: What is the birthdate of Ernest Dante Kim?
+Assistant: October 20, 1925
+
+User: What is the birth city of Ernest Dante Kim?
+Assistant: Fort Wayne, IN
+
+User: Which University did Ernest Dante Kim study?
+Assistant: University of Notre Dame
+
+User: Which Major did Ernest Dante Kim study?
+Assistant: Film Studies
+
+User: What company did Ernest Dante Kim work for?
+Assistant: Sysco
+
+User: Where did Ernest Dante Kim work?
+Assistant: Houston, TX
+
+User: What is the birthdate of Douglas Blaze Reeves?
+Assistant: December 26, 2083
+
+User: What is the birth city of Douglas Blaze Reeves?
+Assistant: Laredo, TX
+
+User: Which University did Douglas Blaze Reeves study?
+Assistant: San Jose State University
+
+User: Which Major did Douglas Blaze Reeves study?
+Assistant: Cybersecurity
+
+User: What company did Douglas Blaze Reeves work for?
+Assistant: Snap Inc.
+
+User: Where did Douglas Blaze Reeves work?
+Assistant: Santa Monica, CA
+
+User: What is the birthdate of Gordon Margot Carroll?
+Assistant: November 25, 2053
+
+User: What is the birth city of Gordon Margot Carroll?
+Assistant: Denton, TX
+
+User: Which University did Gordon Margot Carroll study?
+Assistant: University of Delaware
+
+User: Which Major did Gordon Margot Carroll study?
+Assistant: Management
+
+User: What company did Gordon Margot Carroll work for?
+Assistant: Xcel Energy
+
+User: Where did Gordon Margot Carroll work?
+Assistant: Minneapolis, MN
+
+User: What is the birthdate of Sophia Nova Bennett?
+Assistant: February 8, 1903
+
+User: What is the birth city of Sophia Nova Bennett?
+Assistant: Englewood Cliffs, NJ
+
+User: Which University did Sophia Nova Bennett study?
+Assistant: Texas Tech University
+
+User: Which Major did Sophia Nova Bennett study?
+Assistant: Nutrition
+
+User: What company did Sophia Nova Bennett work for?
+Assistant: Illumina
+
+User: Where did Sophia Nova Bennett work?
+Assistant: San Diego, CA
+
+User: What is the birthdate of Dwight Isadora Rangel?
+Assistant: December 28, 2016
+
+User: What is the birth city of Dwight Isadora Rangel?
+Assistant: Akron, OH
+
+User: Which University did Dwight Isadora Rangel study?
+Assistant: Harvey Mudd College
+
+User: Which Major did Dwight Isadora Rangel study?
+Assistant: Civil Engineering
+
+User: What company did Dwight Isadora Rangel work for?
+Assistant: Chrysler
+
+User: Where did Dwight Isadora Rangel work?
+Assistant: Auburn Hills, MI
+
+User: What is the birthdate of Deborah Genevieve Alexander?
+Assistant: January 15, 2029
+
+User: What is the birth city of Deborah Genevieve Alexander?
+Assistant: Battle Creek, MI
+
+User: Which University did Deborah Genevieve Alexander study?
+Assistant: Northern Kentucky University
+
+User: Which Major did Deborah Genevieve Alexander study?
+Assistant: Film Studies
+
+User: What company did Deborah Genevieve Alexander work for?
+Assistant: Johnson & Johnson
+
+User: Where did Deborah Genevieve Alexander work?
+Assistant: New Brunswick, NJ
+
+User: What is the birthdate of Felix Easton Bell?
+Assistant: November 20, 1926
+
+User: What is the birth city of Felix Easton Bell?
+Assistant: Boston, MA
+
+User: Which University did Felix Easton Bell study?
+Assistant: Fielding Graduate University
+
+User: Which Major did Felix Easton Bell study?
+Assistant: Chemical Engineering
+
+User: What company did Felix Easton Bell work for?
+Assistant: TIAA
+
+User: Where did Felix Easton Bell work?
+Assistant: New York, NY
+
+User: What is the birthdate of Aaron Joyce Andrade?
+Assistant: November 1, 2046
+
+User: What is the birth city of Aaron Joyce Andrade?
+Assistant: St. Paul, MN
+
+User: Which University did Aaron Joyce Andrade study?
+Assistant: University of Missouri
+
+User: Which Major did Aaron Joyce Andrade study?
+Assistant: Geography
+
+User: What company did Aaron Joyce Andrade work for?
+Assistant: United Parcel Service (UPS)
+
+User: Where did Aaron Joyce Andrade work?
+Assistant: Atlanta, GA
+
+User: What is the birthdate of Natalie Raine Prince?
+Assistant: July 4, 1989
+
+User: What is the birth city of Natalie Raine Prince?
+Assistant: Knoxville, TN
+
+User: Which University did Natalie Raine Prince study?
+Assistant: Reed College
+
+User: Which Major did Natalie Raine Prince study?
+Assistant: Dance
+
+User: What company did Natalie Raine Prince work for?
+Assistant: Autodesk
+
+User: Where did Natalie Raine Prince work?
+Assistant: San Rafael, CA
+
+User: What is the birthdate of Nathaniel Irene Edwards?
+Assistant: March 19, 1924
+
+User: What is the birth city of Nathaniel Irene Edwards?
+Assistant: Tucson, AZ
+
+User: Which University did Nathaniel Irene Edwards study?
+Assistant: University of North Texas
+
+User: Which Major did Nathaniel Irene Edwards study?
+Assistant: Data Science
+
+User: What company did Nathaniel Irene Edwards work for?
+Assistant: Chipotle
+
+User: Where did Nathaniel Irene Edwards work?
+Assistant: Newport Beach, CA
+
+User: What is the birthdate of Charles Nora Moore?
+Assistant: April 23, 2074
+
+User: What is the birth city of Charles Nora Moore?
+Assistant: Chesapeake, VA
+
+User: Which University did Charles Nora Moore study?
+Assistant: Samford University
+
+User: Which Major did Charles Nora Moore study?
+Assistant: Physics
+
+User: What company did Charles Nora Moore work for?
+Assistant: Tesla
+
+User: Where did Charles Nora Moore work?
+Assistant: Palo Alto, CA
+
+User: What is the birthdate of Caroline Finn Morales?
+Assistant: July 26, 1924
+
+User: What is the birth city of Caroline Finn Morales?
+Assistant: Lubbock, TX
+
+User: Which University did Caroline Finn Morales study?
+Assistant: Vanguard University of Southern California
+
+User: Which Major did Caroline Finn Morales study?
+Assistant: Mathematics Education
+
+User: What company did Caroline Finn Morales work for?
+Assistant: Dropbox
+
+User: Where did Caroline Finn Morales work?
+Assistant: San Francisco, CA
+
+User: What is the birthdate of Tony Christian Curtis?
+Assistant: March 2, 2035
+
+User: What is the birth city of Tony Christian Curtis?
+Assistant: Anchorage, AK
+
+User: Which University did Tony Christian Curtis study?
+Assistant: Biola University
+
+User: Which Major did Tony Christian Curtis study?
+Assistant: Neuroscience
+
+User: What company did Tony Christian Curtis work for?
+Assistant: Qualcomm
+
+User: Where did Tony Christian Curtis work?
+Assistant: San Diego, CA
+
+User: What is the birthdate of Allan Mason Estrada?
+Assistant: July 6, 2023
+
+User: What is the birth city of Allan Mason Estrada?
+Assistant: North Las Vegas, NV
+
+User: Which University did Allan Mason Estrada study?
+Assistant: New York University
+
+User: Which Major did Allan Mason Estrada study?
+Assistant: Botany
+
+User: What company did Allan Mason Estrada work for?
+Assistant: Travelers
+
+User: Where did Allan Mason Estrada work?
+Assistant: New York, NY
+
+User: What is the birthdate of Olivia Tyler Gallagher?
+Assistant: November 24, 1931
+
+User: What is the birth city of Olivia Tyler Gallagher?
+Assistant: Saint Paul, MN
+
+User: Which University did Olivia Tyler Gallagher study?
+Assistant: Marquette University
+
+User: Which Major did Olivia Tyler Gallagher study?
+Assistant: Microbiology
+
+User: What company did Olivia Tyler Gallagher work for?
+Assistant: AIG
+
+User: Where did Olivia Tyler Gallagher work?
+Assistant: New York, NY
+
+User: What is the birthdate of Nicole Dean Alexander?
+Assistant: July 6, 1921
+
+User: What is the birth city of Nicole Dean Alexander?
+Assistant: Bakersfield, CA
+
+User: Which University did Nicole Dean Alexander study?
+Assistant: Florida International University
+
+User: Which Major did Nicole Dean Alexander study?
+Assistant: Linguistics
+
+User: What company did Nicole Dean Alexander work for?
+Assistant: AbbVie
+
+User: Where did Nicole Dean Alexander work?
+Assistant: North Chicago, IL
+
+User: What is the birthdate of Adam Briar Hayes?
+Assistant: August 21, 1951
+
+User: What is the birth city of Adam Briar Hayes?
+Assistant: Boise, ID
+
+User: Which University did Adam Briar Hayes study?
+Assistant: California State University Dominguez Hills
+
+User: Which Major did Adam Briar Hayes study?
+Assistant: Religious Studies
+
+User: What company did Adam Briar Hayes work for?
+Assistant: Liberty Mutual
+
+User: Where did Adam Briar Hayes work?
+Assistant: Boston, MA
+
+User: What is the birthdate of Andrew Iris Rios?
+Assistant: April 15, 1902
+
+User: What is the birth city of Andrew Iris Rios?
+Assistant: Jacksonville, FL
+
+User: Which University did Andrew Iris Rios study?
+Assistant: University of Washington
+
+User: Which Major did Andrew Iris Rios study?
+Assistant: Tourism
+
+User: What company did Andrew Iris Rios work for?
+Assistant: The North Face
+
+User: Where did Andrew Iris Rios work?
+Assistant: Alameda, CA
+
+User: What is the birthdate of Joyce Henry Olson?
+Assistant: March 16, 1975
+
+User: What is the birth city of Joyce Henry Olson?
+Assistant: Bridgeport, CT
+
+User: Which University did Joyce Henry Olson study?
+Assistant: Berklee College of Music
+
+User: Which Major did Joyce Henry Olson study?
+Assistant: Physics Education
+
+User: What company did Joyce Henry Olson work for?
+Assistant: Keurig Dr Pepper
+
+User: Where did Joyce Henry Olson work?
+Assistant: Burlington, MA
+
+User: What is the birthdate of Andrew Blair Mejia?
+Assistant: August 2, 1918
+
+User: What is the birth city of Andrew Blair Mejia?
+Assistant: Santa Rosa, CA
+
+User: Which University did Andrew Blair Mejia study?
+Assistant: Fresno Pacific University
+
+User: Which Major did Andrew Blair Mejia study?
+Assistant: Geography
+
+User: What company did Andrew Blair Mejia work for?
+Assistant: Dropbox
+
+User: Where did Andrew Blair Mejia work?
+Assistant: San Francisco, CA
+
+User: What is the birthdate of Barbara Esmeralda Carpenter?
+Assistant: July 2, 1943
+
+User: What is the birth city of Barbara Esmeralda Carpenter?
+Assistant: Little Rock, AR
+
+User: Which University did Barbara Esmeralda Carpenter study?
+Assistant: Johns Hopkins University
+
+User: Which Major did Barbara Esmeralda Carpenter study?
+Assistant: Nutrition
+
+User: What company did Barbara Esmeralda Carpenter work for?
+Assistant: Stripe
+
+User: Where did Barbara Esmeralda Carpenter work?
+Assistant: San Francisco, CA
+
+User: What is the birthdate of Rose Barrett Newman?
+Assistant: November 11, 2082
+
+User: What is the birth city of Rose Barrett Newman?
+Assistant: Auburn Hills, MI
+
+User: Which University did Rose Barrett Newman study?
+Assistant: University of Redlands
+
+User: Which Major did Rose Barrett Newman study?
+Assistant: Physics Education
+
+User: What company did Rose Barrett Newman work for?
+Assistant: Keurig Dr Pepper
+
+User: Where did Rose Barrett Newman work?
+Assistant: Burlington, MA
+
+User: What is the birthdate of Dominic Ford Juarez?
+Assistant: August 24, 2058
+
+User: What is the birth city of Dominic Ford Juarez?
+Assistant: Glendale, CA
+
+User: Which University did Dominic Ford Juarez study?
+Assistant: California Polytechnic State University, San Luis Obispo
+
+User: Which Major did Dominic Ford Juarez study?
+Assistant: Philosophy
+
+User: What company did Dominic Ford Juarez work for?
+Assistant: Domino's
+
+User: Where did Dominic Ford Juarez work?
+Assistant: Ann Arbor, MI
+
+User: What is the birthdate of Benjamin Miriam Patel?
+Assistant: April 19, 2060
+
+User: What is the birth city of Benjamin Miriam Patel?
+Assistant: Alexandria, VA
+
+User: Which University did Benjamin Miriam Patel study?
+Assistant: University of Utah
+
+User: Which Major did Benjamin Miriam Patel study?
+Assistant: Microbiology
+
+User: What company did Benjamin Miriam Patel work for?
+Assistant: Danaher
+
+User: Where did Benjamin Miriam Patel work?
+Assistant: Washington, DC
+
+User: What is the birthdate of Carolyn Sterling Edwards?
+Assistant: May 26, 2081
+
+User: What is the birth city of Carolyn Sterling Edwards?
+Assistant: Knoxville, TN
+
+User: Which University did Carolyn Sterling Edwards study?
+Assistant: Soka University of America
+
+User: Which Major did Carolyn Sterling Edwards study?
+Assistant: Kinesiology
+
+User: What company did Carolyn Sterling Edwards work for?
+Assistant: HCA Healthcare
+
+User: Where did Carolyn Sterling Edwards work?
+Assistant: Nashville, TN
+
+User: What is the birthdate of Jerome Hayes Rollins?
+Assistant: December 28, 2096
+
+User: What is the birth city of Jerome Hayes Rollins?
+Assistant: Glendale, CA
+
+User: Which University did Jerome Hayes Rollins study?
+Assistant: Maryland Institute College of Art
+
+User: Which Major did Jerome Hayes Rollins study?
+Assistant: Urban Planning
+
+User: What company did Jerome Hayes Rollins work for?
+Assistant: Gap
+
+User: Where did Jerome Hayes Rollins work?
+Assistant: San Francisco, CA
+
+User: What is the birthdate of Shirley Diane Weber?
+Assistant: September 19, 1994
+
+User: What is the birth city of Shirley Diane Weber?
+Assistant: Nashville, TN
+
+User: Which University did Shirley Diane Weber study?
+Assistant: Savannah State University
+
+User: Which Major did Shirley Diane Weber study?
+Assistant: Zoology
+
+User: What company did Shirley Diane Weber work for?
+Assistant: Estee Lauder
+
+User: Where did Shirley Diane Weber work?
+Assistant: New York, NY
+
+User: What is the birthdate of Herbert Sloane Zamora?
+Assistant: August 10, 1929
+
+User: What is the birth city of Herbert Sloane Zamora?
+Assistant: Brownsville, TX
+
+User: Which University did Herbert Sloane Zamora study?
+Assistant: Western University of Health Sciences
+
+User: Which Major did Herbert Sloane Zamora study?
+Assistant: Middle Eastern Studies
+
+User: What company did Herbert Sloane Zamora work for?
+Assistant: Snap Inc.
+
+User: Where did Herbert Sloane Zamora work?
+Assistant: Santa Monica, CA
+
+User: What is the birthdate of Duane Esme Ortega?
+Assistant: September 3, 2045
+
+User: What is the birth city of Duane Esme Ortega?
+Assistant: Denver, CO
+
+User: Which University did Duane Esme Ortega study?
+Assistant: Villanova University
+
+User: Which Major did Duane Esme Ortega study?
+Assistant: Music
+
+User: What company did Duane Esme Ortega work for?
+Assistant: General Motors
+
+User: Where did Duane Esme Ortega work?
+Assistant: Detroit, MI
+
+User: What is the birthdate of Ariana Ford Stone?
+Assistant: November 7, 2026
+
+User: What is the birth city of Ariana Ford Stone?
+Assistant: Nashville, TN
+
+User: Which University did Ariana Ford Stone study?
+Assistant: California State University, Long Beach
+
+User: Which Major did Ariana Ford Stone study?
+Assistant: Zoology
+
+User: What company did Ariana Ford Stone work for?
+Assistant: Patagonia
+
+User: Where did Ariana Ford Stone work?
+Assistant: Ventura, CA
+
+User: What is the birthdate of Tiffany Miles Gray?
+Assistant: August 20, 1921
+
+User: What is the birth city of Tiffany Miles Gray?
+Assistant: Northbrook, IL
+
+User: Which University did Tiffany Miles Gray study?
+Assistant: Pomona College
+
+User: Which Major did Tiffany Miles Gray study?
+Assistant: Genetics
+
+User: What company did Tiffany Miles Gray work for?
+Assistant: Vroom
+
+User: Where did Tiffany Miles Gray work?
+Assistant: New York, NY
+
+User: What is the birthdate of Shelby Rowan Acosta?
+Assistant: December 20, 2042
+
+User: What is the birth city of Shelby Rowan Acosta?
+Assistant: Eugene, OR
+
+User: Which University did Shelby Rowan Acosta study?
+Assistant: Worcester Polytechnic Institute
+
+User: Which Major did Shelby Rowan Acosta study?
+Assistant: Biotechnology
+
+User: What company did Shelby Rowan Acosta work for?
+Assistant: Procter & Gamble
+
+User: Where did Shelby Rowan Acosta work?
+Assistant: Cincinnati, OH
+
+User: What is the birthdate of Randy Harrison Moreno?
+Assistant: September 14, 1900
+
+User: What is the birth city of Randy Harrison Moreno?
+Assistant: Augusta, GA
+
+User: Which University did Randy Harrison Moreno study?
+Assistant: Portland State University
+
+User: Which Major did Randy Harrison Moreno study?
+Assistant: Chemistry
+
+User: What company did Randy Harrison Moreno work for?
+Assistant: United Rentals
+
+User: Where did Randy Harrison Moreno work?
+Assistant: Stamford, CT
+
+User: What is the birthdate of Delilah Grayson Juarez?
+Assistant: February 19, 2031
+
+User: What is the birth city of Delilah Grayson Juarez?
+Assistant: North Chicago, IL
+
+User: Which University did Delilah Grayson Juarez study?
+Assistant: Pepperdine University
+
+User: Which Major did Delilah Grayson Juarez study?
+Assistant: Mechanical Engineering
+
+User: What company did Delilah Grayson Juarez work for?
+Assistant: Caterpillar
+
+User: Where did Delilah Grayson Juarez work?
+Assistant: Deerfield, IL
+
+User: What is the birthdate of Gordon Lee Griffin?
+Assistant: August 17, 1992
+
+User: What is the birth city of Gordon Lee Griffin?
+Assistant: Columbus, GA
+
+User: Which University did Gordon Lee Griffin study?
+Assistant: Fresno Pacific University
+
+User: Which Major did Gordon Lee Griffin study?
+Assistant: Theater
+
+User: What company did Gordon Lee Griffin work for?
+Assistant: American Electric Power
+
+User: Where did Gordon Lee Griffin work?
+Assistant: Columbus, OH
+
+User: What is the birthdate of Sean Crosby Nelson?
+Assistant: December 3, 2014
+
+User: What is the birth city of Sean Crosby Nelson?
+Assistant: Juno Beach, FL
+
+User: Which University did Sean Crosby Nelson study?
+Assistant: University of Miami
+
+User: Which Major did Sean Crosby Nelson study?
+Assistant: Chemistry
+
+User: What company did Sean Crosby Nelson work for?
+Assistant: Keurig Dr Pepper
+
+User: Where did Sean Crosby Nelson work?
+Assistant: Burlington, MA
+
+User: What is the birthdate of Paul Ronan Hayes?
+Assistant: April 18, 1955
+
+User: What is the birth city of Paul Ronan Hayes?
+Assistant: Olathe, KS
+
+User: Which University did Paul Ronan Hayes study?
+Assistant: University of San Francisco
+
+User: Which Major did Paul Ronan Hayes study?
+Assistant: Information Systems
+
+User: What company did Paul Ronan Hayes work for?
+Assistant: Hormel Foods
+
+User: Where did Paul Ronan Hayes work?
+Assistant: Austin, MN
+
+User: What is the birthdate of Randall Elodie Holt?
+Assistant: May 10, 2064
+
+User: What is the birth city of Randall Elodie Holt?
+Assistant: Winston-Salem, NC
+
+User: Which University did Randall Elodie Holt study?
+Assistant: University of Alabama at Birmingham
+
+User: Which Major did Randall Elodie Holt study?
+Assistant: Botany
+
+User: What company did Randall Elodie Holt work for?
+Assistant: Lucid Motors
+
+User: Where did Randall Elodie Holt work?
+Assistant: Newark, CA
+
+User: What is the birthdate of April Wilder Morrison?
+Assistant: October 4, 1972
+
+User: What is the birth city of April Wilder Morrison?
+Assistant: Camden, NJ
+
+User: Which University did April Wilder Morrison study?
+Assistant: Georgia State University
+
+User: Which Major did April Wilder Morrison study?
+Assistant: Environmental Science
+
+User: What company did April Wilder Morrison work for?
+Assistant: Merck
+
+User: Where did April Wilder Morrison work?
+Assistant: Kenilworth, NJ
+
+User: What is the birthdate of Valerie Sterling Becker?
+Assistant: May 26, 1951
+
+User: What is the birth city of Valerie Sterling Becker?
+Assistant: Houston, TX
+
+User: Which University did Valerie Sterling Becker study?
+Assistant: Columbia University
+
+User: Which Major did Valerie Sterling Becker study?
+Assistant: Geology
+
+User: What company did Valerie Sterling Becker work for?
+Assistant: Entergy
+
+User: Where did Valerie Sterling Becker work?
+Assistant: New Orleans, LA
+
+User: What is the birthdate of Sharon Archer Wiley?
+Assistant: June 6, 1960
+
+User: What is the birth city of Sharon Archer Wiley?
+Assistant: Fontana, CA
+
+User: Which University did Sharon Archer Wiley study?
+Assistant: California State University Bakersfield
+
+User: Which Major did Sharon Archer Wiley study?
+Assistant: Zoology
+
+User: What company did Sharon Archer Wiley work for?
+Assistant: Humana
+
+User: Where did Sharon Archer Wiley work?
+Assistant: Louisville, KY
+
+User: What is the birthdate of Rebecca Dante Owens?
+Assistant: May 15, 2043
+
+User: What is the birth city of Rebecca Dante Owens?
+Assistant: Deerfield, IL
+
+User: Which University did Rebecca Dante Owens study?
+Assistant: Westmont College
+
+User: Which Major did Rebecca Dante Owens study?
+Assistant: Creative Writing
+
+User: What company did Rebecca Dante Owens work for?
+Assistant: Dominion Energy
+
+User: Where did Rebecca Dante Owens work?
+Assistant: Richmond, VA
+
+User: What is the birthdate of Nancy Jonah Sawyer?
+Assistant: September 12, 1985
+
+User: What is the birth city of Nancy Jonah Sawyer?
+Assistant: Pittsburgh, PA
+
+User: Which University did Nancy Jonah Sawyer study?
+Assistant: University of Louisiana Monroe
+
+User: Which Major did Nancy Jonah Sawyer study?
+Assistant: Religious Studies
+
+User: What company did Nancy Jonah Sawyer work for?
+Assistant: Google
+
+User: Where did Nancy Jonah Sawyer work?
+Assistant: Mountain View, CA
+
+User: What is the birthdate of Camila Belle Howard?
+Assistant: September 22, 2087
+
+User: What is the birth city of Camila Belle Howard?
+Assistant: Tacoma, WA
+
+User: Which University did Camila Belle Howard study?
+Assistant: University of Vermont
+
+User: Which Major did Camila Belle Howard study?
+Assistant: Media Studies
+
+User: What company did Camila Belle Howard work for?
+Assistant: Marriott International
+
+User: Where did Camila Belle Howard work?
+Assistant: Bethesda, MD
+
+User: What is the birthdate of Cameron Brody Bush?
+Assistant: May 9, 1999
+
+User: What is the birth city of Cameron Brody Bush?
+Assistant: Zurich, Switzerland
+
+User: Which University did Cameron Brody Bush study?
+Assistant: Texas Tech University
+
+User: Which Major did Cameron Brody Bush study?
+Assistant: Speech-Language Pathology
+
+User: What company did Cameron Brody Bush work for?
+Assistant: AT&T
+
+User: Where did Cameron Brody Bush work?
+Assistant: Dallas, TX
+
+User: What is the birthdate of Shawn Faye Erickson?
+Assistant: April 9, 2066
+
+User: What is the birth city of Shawn Faye Erickson?
+Assistant: Sunnyvale, CA
+
+User: Which University did Shawn Faye Erickson study?
+Assistant: University of California, San Diego
+
+User: Which Major did Shawn Faye Erickson study?
+Assistant: Civil Engineering
+
+User: What company did Shawn Faye Erickson work for?
+Assistant: Starbucks
+
+User: Where did Shawn Faye Erickson work?
+Assistant: Seattle, WA
+
+User: What is the birthdate of Mildred Estelle Pacheco?
+Assistant: July 18, 2066
+
+User: What is the birth city of Mildred Estelle Pacheco?
+Assistant: Bakersfield, CA
+
+User: Which University did Mildred Estelle Pacheco study?
+Assistant: Florida International University
+
+User: Which Major did Mildred Estelle Pacheco study?
+Assistant: Sociology
+
+User: What company did Mildred Estelle Pacheco work for?
+Assistant: PPL Corporation
+
+User: Where did Mildred Estelle Pacheco work?
+Assistant: Allentown, PA
+
+User: What is the birthdate of Philip Marigold James?
+Assistant: September 3, 2005
+
+User: What is the birth city of Philip Marigold James?
+Assistant: Montgomery, AL
+
+User: Which University did Philip Marigold James study?
+Assistant: California College of the Arts
+
+User: Which Major did Philip Marigold James study?
+Assistant: Anthropology
+
+User: What company did Philip Marigold James work for?
+Assistant: Lowe's
+
+User: Where did Philip Marigold James work?
+Assistant: Mooresville, NC
+
+User: What is the birthdate of Jerry Florence Alvarez?
+Assistant: April 16, 1912
+
+User: What is the birth city of Jerry Florence Alvarez?
+Assistant: Mooresville, NC
+
+User: Which University did Jerry Florence Alvarez study?
+Assistant: University of Connecticut
+
+User: Which Major did Jerry Florence Alvarez study?
+Assistant: Media Studies
+
+User: What company did Jerry Florence Alvarez work for?
+Assistant: Facebook
+
+User: Where did Jerry Florence Alvarez work?
+Assistant: Menlo Park, CA
+
+User: What is the birthdate of Aaron Grace Valdez?
+Assistant: February 18, 2028
+
+User: What is the birth city of Aaron Grace Valdez?
+Assistant: Fontana, CA
+
+User: Which University did Aaron Grace Valdez study?
+Assistant: Harvard University
+
+User: Which Major did Aaron Grace Valdez study?
+Assistant: Humanities
+
+User: What company did Aaron Grace Valdez work for?
+Assistant: AbbVie
+
+User: Where did Aaron Grace Valdez work?
+Assistant: North Chicago, IL
+
+User: What is the birthdate of Gilbert Andrew Newman?
+Assistant: October 24, 1907
+
+User: What is the birth city of Gilbert Andrew Newman?
+Assistant: Purchase, NY
+
+User: Which University did Gilbert Andrew Newman study?
+Assistant: University of Chicago
+
+User: Which Major did Gilbert Andrew Newman study?
+Assistant: Industrial Engineering
+
+User: What company did Gilbert Andrew Newman work for?
+Assistant: Kimberly-Clark
+
+User: Where did Gilbert Andrew Newman work?
+Assistant: Irving, TX
